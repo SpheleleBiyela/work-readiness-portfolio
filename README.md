@@ -1,95 +1,63 @@
-# work-readiness-portfolio
-# 🌟 Work Readiness Training E-Portfolio
-
-**Name:** Your Full Name  
-**Student Number:** Your Student Number  
-**Course/Program:** Your Course Name  
-**Institution:** CPUT  
-**Date:** October 2025  
 
 ---
 
-## 🧩 1. Introduction
-This e-portfolio presents my learning journey throughout the Work Readiness Training program.  
-It includes artefacts, reflections, and examples of skills I developed such as teamwork, communication, and problem-solving.
+## 🧱 **Option 2: HTML (More advanced — looks like a website)**
+If you want your e-portfolio to look more like a custom webpage on GitHub Pages, you can use this HTML version:
 
-> ✍️ Write 2–3 sentences about your personal goals or what you expected to learn.
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Work Readiness Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f9f9f9; margin: 40px; line-height: 1.6; color: #333; }
+    h1, h2, h3 { color: #007acc; }
+    table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+    th, td { border: 1px solid #ddd; padding: 8px; }
+    th { background: #007acc; color: #fff; }
+    a { color: #007acc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>🌟 Work Readiness Training E-Portfolio</h1>
+  <p><strong>Name:</strong> Your Full Name<br>
+  <strong>Student Number:</strong> Your Student Number<br>
+  <strong>Course/Program:</strong> Your Course<br>
+  <strong>Institution:</strong> CPUT<br>
+  <strong>Date:</strong> October 2025</p>
 
----
+  <h2>1. Introduction</h2>
+  <p>This e-portfolio showcases my learning journey during the Work Readiness Training program...</p>
 
-## 📂 2. Collect – Evidence of Learning
+  <h2>2. Collect – Evidence of Learning</h2>
+  <table>
+    <tr><th>Artefact Type</th><th>Description</th><th>File or Link</th></tr>
+    <tr><td>Certificate</td><td>Proof of completion</td><td><a href="artefacts/certificate.pdf">View</a></td></tr>
+    <tr><td>CV & Cover Letter</td><td>Created during training</td><td><a href="artefacts/cv_coverletter.pdf">View</a></td></tr>
+  </table>
 
-| **Artefact Type** | **Description** | **File or Link** |
-|--------------------|-----------------|------------------|
-| Certificate | Proof of completion | [certificate.pdf](artefacts/certificate.pdf) |
-| CV and Cover Letter | Created during the training | [cv_coverletter.pdf](artefacts/cv_coverletter.pdf) |
-| Presentation Video | Teamwork presentation | [presentation.mp4](artefacts/presentation.mp4) |
-| Group Project | Demonstration of collaboration | [project_report.pdf](artefacts/project_report.pdf) |
-| Reflection Journal | Weekly reflections | [journal.docx](artefacts/journal.docx) |
+  <h2>3. Select – Best Evidence</h2>
+  <p><strong>Selected Artefact 1:</strong> Presentation Video – demonstrates communication skills.</p>
 
-> 💡 Tip: Create a folder named `artefacts` in your repository and upload your files there.
+  <h2>4. Reflect – Personal Learning Reflections</h2>
+  <p>Through this program, I developed key skills in teamwork, professionalism, and communication...</p>
 
----
+  <h2>5. Connect – Summary and Integration</h2>
+  <p>All artefacts together demonstrate my readiness to enter the workplace...</p>
 
-## 🎯 3. Select – Best Evidence
+  <h2>6. Future Goals</h2>
+  <table>
+    <tr><th>Timeframe</th><th>Goal</th><th>Plan to Achieve It</th></tr>
+    <tr><td>Short-term</td><td>Get internship</td><td>Apply skills from training</td></tr>
+  </table>
 
-### Selected Artefact 1
-**Name:** _e.g., Presentation Video_  
-**Reason for Selection:** _Explain why this artefact best represents your learning._
+  <h2>7. Conclusion</h2>
+  <p>This portfolio reflects my learning and growth...</p>
 
-### Selected Artefact 2
-**Name:** _e.g., Group Project Report_  
-**Reason for Selection:** _Describe how this artefact demonstrates teamwork and growth._
+  <p><strong>Portfolio Link:</strong> <a href="#">https://yourusername.github.io/work-readiness-portfolio/</a></p>
+</body>
+</html>
 
-### Selected Artefact 3
-**Name:** _e.g., CV & Cover Letter_  
-**Reason for Selection:** _Explain how it reflects your professional readiness._
-
----
-
-## 💭 4. Reflect – Personal Learning Reflections
-
-Reflect on what you learned and how the training helped you develop as a professional.
-
-**Prompts:**
-- What new skills did you gain?  
-- What challenges did you face and overcome?  
-- How has this program prepared you for the workplace?
-
-**Example Reflection:**
-> During this program, I improved my confidence in public speaking and teamwork.  
-> I learned to manage time effectively and communicate professionally.  
-> These skills will help me perform better in interviews and workplace settings.
-
----
-
-## 🔗 5. Connect – Summary and Integration
-
-> Explain how your artefacts and reflections connect to form a complete picture of your growth.
-
-**Example:**
-> My certificate shows successful completion of the program, my group project demonstrates collaboration, and my presentation video highlights communication skills.  
-> Together, these artefacts represent my readiness to enter the professional environment.
-
----
-
-## 🧠 6. Future Goals
-
-| **Timeframe** | **Goal** | **Plan to Achieve It** |
-|----------------|----------|------------------------|
-| Short-term | Get internship or entry-level position | Apply skills from training |
-| Medium-term | Develop leadership skills | Attend workshops and take online courses |
-| Long-term | Build professional IT career | Complete degree and gain certifications |
-
----
-
-## 📸 7. Additional Media
-
-Include links to:
-- Photos or screenshots  
-- Certificates (PDFs or images)  
-- Videos or online presentations
-
-Example:
-```markdown
-![Team Presentation](media/team_presentation.jpg)
