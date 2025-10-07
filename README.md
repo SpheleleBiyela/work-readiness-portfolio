@@ -1,8 +1,8 @@
 # 🌟 Work Readiness Training E-Portfolio  
 
-**Name:** Yenziwe Biyela
-**Student Number:** 231118066  
-**Course/Program:** ICT: Communications Network 
+**Name:** Yenziwe Biyela  
+**Student Number:** 231118066
+**Course/Program:** ICT: Communications Network  
 **Institution:** CPUT  
 **Date:** 07 October 2025  
 
@@ -98,5 +98,3 @@ This section contains **visual and multimedia artefacts** that offer a deeper vi
 
 ```markdown
 ![Team Presentation](media/team_presentation.jpg)
-
-
