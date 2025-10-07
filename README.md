@@ -1,10 +1,10 @@
 # 🌟 Work Readiness Training E-Portfolio  
 
-**Name:** Your Full Name  
-**Student Number:** Your Student Number  
-**Course/Program:** Your Course Name  
+**Name:** Yenziwe Biyela
+**Student Number:** 231118066  
+**Course/Program:** ICT: Communications Network 
 **Institution:** CPUT  
-**Date:** October 2025  
+**Date:** 07 October 2025  
 
 ---
 
