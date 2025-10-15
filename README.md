@@ -42,7 +42,7 @@ https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Business%20
 ### 📎 Evidence
 ### 📄 My Professional CV
 [Download My CV (PDF)] (https://github.com/YourUsername/your-repo-name/blob/main/MyCV.pdf)
-
+https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Interview%20Skills.png
 
 ### 💭 Reflection (STAR Technique)
 
