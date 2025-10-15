@@ -13,7 +13,7 @@
 This e-portfolio presents my learning journey throughout the **Work Readiness Training Program**.  
 It includes artefacts, reflections, and examples of skills I developed such as teamwork, communication, professionalism, and problem-solving.  
 
-> ✍️ Write 2–3 sentences here about your personal goals or what you expected to achieve from this training.
+
 
 ---
 
