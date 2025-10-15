@@ -26,9 +26,7 @@ Each reflection follows the **STAR Technique** (Situation, Task, Action, Result)
 ## 🧠 2. Business Communication
 
 ### 📎 Evidence
-- Professional email or business letter written during training  
-- PowerPoint or report created for a communication exercise  
-- (Optional) Screenshot or video of a presentation  
+https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Business%20Communication.png
 
 ### 💭 Reflection (STAR Technique)
 
