@@ -1,100 +1,124 @@
-# 🌟 Work Readiness Training E-Portfolio  
+# 🌟 Work Readiness Training E-Portfolio
 
-**Name:** Yenziwe Biyela  
-**Student Number:** 231118066
-**Course/Program:** ICT: Communications Network  
-**Institution:** CPUT  
-**Date:** 07 October 2025  
-
----
-
-## 🧩 1. Introduction  
-
-This e-portfolio presents my learning journey throughout the **Work Readiness Training Program**.  
-It includes artefacts, reflections, and examples of skills I developed such as teamwork, communication, professionalism, and problem-solving.  
-
-
+**Name:** Yenziwe Biyela
+**Student Number:** 231118066 
+**Course:** ICT: Communications Network
+**Institution:** Cape Peninsula University of Technology (CPUT)  
+**Date:** 15 October 2025  
 
 ---
 
-## 📂 2. Collect – Evidence of Learning  
+## 🧩 1. Introduction
 
-Below are the artefacts I collected during my training that demonstrate my learning process and achievements.
+This e-portfolio presents key learning outcomes and personal development achieved during the **Work Readiness Training** program.  
+It includes artefacts and reflections in the following areas:
 
-| **Artefact Type** | **Description** | **File or Link** |
-|--------------------|-----------------|------------------|
-| Certificate | Proof of completion | [certificate.pdf](artefacts/certificate.pdf) |
-| CV & Cover Letter | Created during the training | [cv_coverletter.pdf](artefacts/cv_coverletter.pdf) |
-| Presentation Video | Teamwork presentation | [presentation.mp4](artefacts/presentation.mp4) |
-| Group Project Report | Demonstration of collaboration and planning | [project_report.pdf](artefacts/project_report.pdf) |
-| Reflection Journal | Weekly learning reflections | [journal.docx](artefacts/journal.docx) |
+- Business Communication  
+- Interview Skills  
+- Mock Interview  
+- Professional Networking  
+- Workplace Etiquette  
 
-> 💡 Tip: Create a folder named `artefacts` in your repository and upload all related documents there.  
-> Example folder structure:  
-> `artefacts/` → all documents  
-> `media/` → images & videos  
+Each reflection follows the **STAR Technique** (Situation, Task, Action, Result) to demonstrate my learning journey and readiness for the professional environment.
 
 ---
 
-## 🎯 3. Select – Best Evidence  
+## 🧠 2. Business Communication
 
-### Selected Artefact 1  
-**Name:** *Teamwork Presentation Video*  
-**Reason for Selection:**  
-This artefact highlights my ability to communicate effectively and work collaboratively in a group. It also shows my confidence in delivering a professional presentation.
+### 📎 Evidence
+- Professional email or business letter written during training  
+- PowerPoint or report created for a communication exercise  
+- (Optional) Screenshot or video of a presentation  
 
-### Selected Artefact 2  
-**Name:** *Group Project Report*  
-**Reason for Selection:**  
-This project demonstrates problem-solving, planning, and time management skills. It also showcases my contribution to teamwork and project success.
+### 💭 Reflection (STAR Technique)
 
-### Selected Artefact 3  
-**Name:** *CV & Cover Letter*  
-**Reason for Selection:**  
-These artefacts represent my understanding of professional document formatting, communication, and self-presentation in job applications.
+**Situation:** I was required to prepare a formal business email and short report presentation.  
+**Task:** To communicate effectively using proper structure, tone, and clarity.  
+**Action:** I applied principles of business writing and practiced clear, confident verbal communication.  
+**Result:** The activity enhanced my ability to present ideas clearly and professionally in a workplace setting.
 
 ---
 
-## 💭 4. Reflect – Personal Learning Reflections  
+## 💼 3. Interview Skills
 
-Reflecting on this training, I can confidently say it has strengthened both my technical and soft skills.  
+### 📎 Evidence
+### 📄 My Professional CV
+[Download My CV (PDF)] (https://github.com/YourUsername/your-repo-name/blob/main/MyCV.pdf)
 
-**Reflection Prompts:**  
-- What new skills did you gain?  
-- What challenges did you face and how did you overcome them?  
-- How has this program prepared you for real-world work environments?  
 
-**Example Reflection:**  
-> During this program, I improved my ability to communicate in a professional setting and learned how to collaborate effectively with others.  
-> I developed greater confidence when presenting and learned to manage my time efficiently.  
-> These skills will help me adapt more easily to any workplace and take on responsibilities with professionalism.
+### 💭 Reflection (STAR Technique)
 
----
-
-## 🔗 5. Connect – Summary and Integration  
-
-This section shows how all my artefacts and reflections connect to demonstrate my personal and professional growth.  
-
-**Example Summary:**  
-> My certificate confirms successful completion of the training, my group project demonstrates collaboration and leadership, while my CV and presentation video show how I can communicate and present professionally. Together, these artefacts tell the story of my readiness to join the workforce with confidence and competence.
+**Situation:** I participated in a session on interview skills to prepare for future job interviews.  
+**Task:** To learn how to answer competency-based questions effectively using the STAR method.  
+**Action:** I practiced responses, recorded mock answers, and used facilitator feedback to improve my delivery.  
+**Result:** My interview confidence improved, and I learned to structure answers that highlight my strengths and experiences.
 
 ---
 
-## 🧠 6. Future Goals  
+## 🗣️ 4. Mock Interview
 
-| **Timeframe** | **Goal** | **Plan to Achieve It** |
-|----------------|----------|------------------------|
-| Short-term | Obtain an internship or entry-level job | Apply skills learned during training to professional tasks |
-| Medium-term | Develop leadership and project management skills | Enroll in workshops and online courses to strengthen management ability |
-| Long-term | Build a successful IT career | Complete my qualification, gain certifications, and continuously upskill |
+### 📎 Evidence
+- Video recording or screenshot from the mock interview session  
+- Feedback sheet from the interviewer  
+- Notes on improvement areas  
+
+### 💭 Reflection (STAR Technique)
+
+**Situation:** I participated in a simulated job interview conducted by a lecturer.  
+**Task:** To demonstrate professional communication and composure during an interview.  
+**Action:** I maintained eye contact, used positive body language, and answered using the STAR structure.  
+**Result:** I gained valuable feedback on improving my confidence, response clarity, and body language.
 
 ---
 
-## 📸 7. Additional Media  
+## 🤝 5. Professional Networking
 
-This section contains **visual and multimedia artefacts** that offer a deeper view of my training experience and skill development.
+### 📎 Evidence
+- Screenshot of LinkedIn profile or professional connections  
+- Evidence of networking event, webinar, or discussion participation  
+- Example of an outreach message to a professional contact  
 
-### 🖼️ Images and Screenshots  
+### 💭 Reflection (STAR Technique)
 
-```markdown
-![Team Presentation](media/team_presentation.jpg)
+**Situation:** I attended an online networking session and created a professional LinkedIn profile.  
+**Task:** To build a professional network and connect with individuals in my field of study.  
+**Action:** I followed best practices for online networking, engaged in discussions, and connected with CPUT alumni.  
+**Result:** I established new professional contacts and learned how networking can open career opportunities.
+
+---
+
+## 🧍‍♂️ 6. Workplace Etiquette
+
+### 📎 Evidence
+- Screenshot of a workplace etiquette training module or certificate  
+- Notes on teamwork and professional conduct exercises  
+- Reflection journal on workplace ethics  
+
+### 💭 Reflection (STAR Technique)
+
+**Situation:** I attended a training session on workplace professionalism and behaviour.  
+**Task:** To understand the importance of etiquette, punctuality, and ethical conduct.  
+**Action:** I participated in role-plays, read workplace policy documents, and discussed real-world scenarios.  
+**Result:** I now understand how professionalism and respect contribute to a healthy and productive work environment.
+
+---
+
+## 🧩 7. Conclusion
+
+This portfolio reflects my growth and readiness for the workplace.  
+The evidence and reflections included show that I have developed crucial skills in communication, networking, and workplace professionalism — essential for a successful transition from university to career.
+
+---
+
+## 📚 References
+
+- CPUT Work Readiness Training Material, 2025  
+- Harvard Business Review, 2024. *Effective Communication at Work*  
+- LinkedIn Learning, 2025. *Interview Skills for Students*  
+- ICASA, 2025. *Professional Behaviour and Networking*  
+
+---
+
+## 🔗 Portfolio Link
+
+[Insert your published portfolio or GitHub Pages link here before submission to Blackboard]
