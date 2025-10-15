@@ -74,7 +74,8 @@ https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Interview%2
 ### 📎 Evidence
 - Screenshot of LinkedIn profile or professional connections  
 - Evidence of networking event, webinar, or discussion participation  
-- Example of an outreach message to a professional contact  
+- Example of an outreach message to a professional contact
+- https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Professional%20Networking.png
 
 ### 💭 Reflection (STAR Technique)
 
