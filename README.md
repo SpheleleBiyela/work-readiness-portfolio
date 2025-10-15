@@ -91,7 +91,8 @@ https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Interview%2
 ### 📎 Evidence
 - Screenshot of a workplace etiquette training module or certificate  
 - Notes on teamwork and professional conduct exercises  
-- Reflection journal on workplace ethics  
+- Reflection journal on workplace ethics
+- https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Workplace%20Etiquette..png
 
 ### 💭 Reflection (STAR Technique)
 
