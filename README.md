@@ -40,7 +40,7 @@ https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Business%20
 ## 💼 3. Interview Skills
 
 ### 📎 Evidence
-
+https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Interview%20Skills.png
 
 ### 💭 Reflection (STAR Technique)
 
@@ -68,9 +68,6 @@ https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Mock%20inte
 ## 🤝 5. Professional Networking
 
 ### 📎 Evidence
-- Screenshot of LinkedIn profile or professional connections  
-- Evidence of networking event, webinar, or discussion participation  
-- Example of an outreach message to a professional contact
 - https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Professional%20Networking.png
 
 ### 💭 Reflection (STAR Technique)
@@ -85,9 +82,6 @@ https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Mock%20inte
 ## 🧍‍♂️ 6. Workplace Etiquette
 
 ### 📎 Evidence
-- Screenshot of a workplace etiquette training module or certificate  
-- Notes on teamwork and professional conduct exercises  
-- Reflection journal on workplace ethics
 - https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Workplace%20Etiquette..png
 
 ### 💭 Reflection (STAR Technique)
@@ -102,7 +96,7 @@ https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Mock%20inte
 ## 🧩 7. Conclusion
 
 This portfolio reflects my growth and readiness for the workplace.  
-The evidence and reflections included show that I have developed crucial skills in communication, networking, and workplace professionalism — essential for a successful transition from university to career.
+The evidence and reflections included show that I have developed crucial skills in communication, networking, and workplace professionalism essential for a successful transition from university to career.
 
 ---
 
@@ -115,6 +109,4 @@ The evidence and reflections included show that I have developed crucial skills 
 
 ---
 
-## 🔗 Portfolio Link
 
-[Insert your published portfolio or GitHub Pages link here before submission to Blackboard]
