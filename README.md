@@ -40,9 +40,7 @@ https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Business%20
 ## 💼 3. Interview Skills
 
 ### 📎 Evidence
-### 📄 My Professional CV
-[Download My CV (PDF)] (https://github.com/YourUsername/your-repo-name/blob/main/MyCV.pdf)
-https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Interview%20Skills.png
+
 
 ### 💭 Reflection (STAR Technique)
 
@@ -56,9 +54,7 @@ https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Interview%2
 ## 🗣️ 4. Mock Interview
 
 ### 📎 Evidence
-- Video recording or screenshot from the mock interview session  
-- Feedback sheet from the interviewer  
-- Notes on improvement areas  
+https://github.com/SpheleleBiyela/work-readiness-portfolio/blob/main/Mock%20interview.png
 
 ### 💭 Reflection (STAR Technique)
 
